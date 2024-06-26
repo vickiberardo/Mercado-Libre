@@ -1,0 +1,90 @@
+body{
+    background-color: rgb(255, 255, 255);
+}
+
+header nav img{
+    width: 60px;
+    height: 50px;
+    float: left;
+}
+
+header nav {
+    background-color: rgb(235, 221, 102);
+    padding: 10px ;
+    border-radius: 6px;
+    text-decoration: none;
+    color: black;
+    text-align: center;
+    margin-top: 20px;
+}
+
+a{
+    text-decoration: none;
+    font-size: 40px;
+    color: black;
+    padding: 10px 50px;
+}
+
+h1{
+    background-color: rgba(246, 255, 77, 0.301);
+    border-radius: 10px;
+    padding: 10px 20px;
+    width: 100px;
+}
+
+.Ofertas{
+    position: absolute;
+    margin-left: 800px;
+    top:430px;
+    padding: 20px;
+}
+.Ofertas img{
+    width: 200px;
+    height: 200px;
+    border-radius: 5px;
+}
+
+.Articulos{
+    margin-left: 250px;
+    padding: 20px;
+}
+.Articulos img{
+    width: 200px;
+    height: 200px;
+    border-radius: 5px;
+}
+
+.Celulares{
+    margin-left: 250px;
+    top:400px;
+    padding: 20px;
+}
+.Celulares img{
+    width: 200px;
+    height: 200px;
+    border-radius: 5px;
+}
+.Calzado{
+    position:absolute;
+    margin-left: 800px;
+    top:90px;
+    padding: 20px;
+}
+.Calzado img{
+    width: 200px;
+    height: 200px;
+    border-radius: 5px;
+}
+
+
+footer{
+    background-color: rgb(227, 230, 102);
+    text-align: center;
+    border-radius: 4px;
+}
+footer img{
+    width: 30px;
+    height: 30px;
+    padding: 10px;
+    border-radius: 6px;
+}
